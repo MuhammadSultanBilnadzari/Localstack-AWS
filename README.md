@@ -50,7 +50,7 @@
     AWS_SECRET_ACCESS_KEY=dummy
     
 
-## 🖥️ Pastikan berada di folder server untuk menjalankan Server Lokal
+## 🖥️ Pastikan berada di folder server/ untuk menjalankan Server Lokal
     yarn dev
 
 
