@@ -83,6 +83,8 @@
     
     curl --request GET http://localhost:3000/
 
+    curl --request GET http://localhost:3000/name-or-id
+
 
 ## ⚠️ Catatan
 
